@@ -20,7 +20,7 @@
 
 ## Introducción
 
-- Nombre del Proyecto
+**Nombre del Proyecto**
 Crhono Creatures
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
