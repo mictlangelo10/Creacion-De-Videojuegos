@@ -20,7 +20,8 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del Proyecto
+Crhono Creatures
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
@@ -28,34 +29,25 @@
 - Reglas de Juego.
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
+- Enlace del Repositorio
 
 ## Código Fuente
 
-* Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+* Prototipo 01
+  * > Import del Prototipo 
+  * > Evidencia con Imagenes 
+* Prototipo 02
+  * > Import del Prototipo 
+  * > Evidencia con Imagenes 
+* Prototipo 03
+  * > Import del Prototipo 
+  * > Evidencia con Imagenes 
+* Prototipo 04
+  * > Import del Prototipo 
+  * > Evidencia con Imagenes 
+* Prototipo 05
+  * > Import del Prototipo 
+  * > Evidencia con Imagenes 
 * VideoJuego
 
 ## Planificación
