@@ -3,12 +3,9 @@
     <img src="https://github.com/user-attachments/assets/0b56ddd5-5cf6-4fa0-ab94-be038db31964" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Short description
+    Repositorio del alumno *Miguel Hernández*
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
+  
 </p>
 
 
